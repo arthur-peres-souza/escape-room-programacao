@@ -7,6 +7,7 @@ int main() {
     printf("=================================\n");
     printf("      ESCAPE ROOM - FUGA\n");
     printf("=================================\n");
+    printf("Bem-vindo ao Escape Room!\n");
     printf("Voce acordou preso em uma sala misteriosa.\n");
     printf("Resolva os 5 desafios para escapar!\n");
     printf("Boa sorte!\n\n");
@@ -18,6 +19,7 @@ int main() {
 
     if(resposta != 30){
         printf("Resposta incorreta!\n");
+        printf("Tente novamente mais tarde!\n");
         return 0;
     }
 
@@ -33,6 +35,7 @@ int main() {
 
     if(resposta != 2){
         printf("Resposta incorreta!\n");
+        printf("Tente novamente mais tarde!\n");
         return 0;
     }
 
@@ -46,6 +49,7 @@ int main() {
 
     if(resposta != 10){
         printf("Resposta incorreta!\n");
+        printf("Tente novamente mais tarde!\n");
         return 0;
     }
 
@@ -58,6 +62,7 @@ int main() {
 
     if(resposta != 56){
         printf("Resposta incorreta!\n");
+        printf("Tente novamente mais tarde!\n");
         return 0;
     }
 
@@ -74,12 +79,14 @@ int main() {
 
     if(resposta != 3){
         printf("Resposta incorreta!\n");
+        printf("Tente novamente mais tarde!\n");
         return 0;
     }
 
     printf("\n=================================\n");
     printf(" PARABENS! VOCE COMPLETOU TODOS OS DESAFIOS E ESCAPOU! \n");
     printf("=================================\n");
+    printf("Obrigado por jogar!\n");
 
     return 0;
 }
