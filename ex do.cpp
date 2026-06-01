@@ -49,7 +49,7 @@ int main() {
 
     if(resposta != 10){
         printf("Resposta incorreta!\n");
-        
+        printf("Tente novamente mais tarde!\n");
         return 0;
     }
 
