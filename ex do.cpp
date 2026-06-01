@@ -8,7 +8,8 @@ int main() {
     printf("      ESCAPE ROOM - FUGA\n");
     printf("=================================\n");
     printf("Voce acordou preso em uma sala misteriosa.\n");
-    printf("Resolva os 5 desafios para escapar!\n\n");
+    printf("Resolva os 5 desafios para escapar!\n");
+    printf("Boa sorte!\n\n");
 
     // PORTA 1
     printf("=== PORTA 1 ===\n");
@@ -60,7 +61,8 @@ int main() {
         return 0;
     }
 
-    printf("Porta 4 aberta!\n\n");
+    printf("Porta 4 aberta!\n");
+    printf ("Voce esta quase escapando!\n\n");
 
     // PORTA 5
     printf("=== PORTA 5 - FINAL ===\n");
@@ -76,7 +78,7 @@ int main() {
     }
 
     printf("\n=================================\n");
-    printf(" PARABENS! VOCE ESCAPOU DA SALA!\n");
+    printf(" PARABENS! VOCE COMPLETOU TODOS OS DESAFIOS E ESCAPOU! \n");
     printf("=================================\n");
 
     return 0;
