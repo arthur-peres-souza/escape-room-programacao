@@ -10,6 +10,7 @@ int main() {
     printf("Bem-vindo ao Escape Room!\n");
     printf("Voce acordou preso em uma sala misteriosa.\n");
     printf("Resolva os 5 desafios para escapar!\n");
+    printf("Boa sorte!\n\n");
 
     // PORTA 1
     printf("=== PORTA 1 ===\n");
