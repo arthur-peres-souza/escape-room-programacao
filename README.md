@@ -1,5 +1,5 @@
 # escape-room-programacao
-Esse repositório tem como o objetivo de realizar o trabalho final da disciplina - "Lógica de Programação"
+Esse repositório tem como o objetivo de realizar o trabalho final da disciplina - "Lógica de Programação (1 semestre)"
 # Programa de Sala de Fuga
 
 ## História do Jogo
