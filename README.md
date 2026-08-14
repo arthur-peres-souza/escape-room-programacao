@@ -1,21 +1,16 @@
-# escape-room-programacao
-Esse repositório tem como o objetivo de realizar o trabalho final da disciplina - "Lógica de Programação (1 semestre)"
-# Programa de Sala de Fuga
+# Escape Room em C++
 
-## História do Jogo
+Projeto acadêmico desenvolvido como trabalho final da disciplina de **Lógica de Programação**, durante o 1º semestre de Engenharia de Software.
+
+O objetivo do projeto foi aplicar na prática conceitos de lógica de programação por meio do desenvolvimento de um jogo de sala de fuga utilizando C++.
+
+## Sobre o jogo
 
 Você acorda preso em uma sala misteriosa.
 
-Para escapar, deve abrir cinco portas resolvendo desafios de matemática, lógica e conhecimento geral.
+Para escapar, precisa abrir cinco portas, resolvendo diferentes desafios de matemática, lógica e conhecimento geral.
 
 Somente após completar todos os desafios será possível escapar.
-
-## Como Executar
-
-1. Abra o arquivo .cpp no Dev-C++
-2. Compile o programa
-3. Execute o jogo
-4. Resolva os cinco desafios
 
 ## Desafios
 
@@ -24,6 +19,23 @@ Somente após completar todos os desafios será possível escapar.
 - Porta 3: Lógica
 - Porta 4: Multiplicação
 - Porta 5: Desafio Final
+
+## Como executar
+
+1. Abra o arquivo `escape_room.cpp` em um ambiente compatível com C++;
+2. Compile o programa;
+3. Execute o programa;
+4. Resolva os cinco desafios para completar o jogo.
+
+## Tecnologias utilizadas
+
+- C++
+- Dev-C++
+- Lógica de programação
+
+## Aprendizados
+
+Durante o desenvolvimento do projeto, foram aplicados conceitos fundamentais de lógica de programação e desenvolvimento em C++, utilizando estruturas e recursos estudados durante a disciplina.
 
 ## Autor
 
